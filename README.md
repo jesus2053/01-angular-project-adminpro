@@ -1,11 +1,11 @@
-## En esta release se trabajo sobre:
+## Esta sección esta dedicada a los componentes y el envío de información entre ellos:
 
-1. Crear un módulo personalizado
-2. Crear rutas hijas
-3. Comenzaremos a crear módulos para agrupar tareas específicas
-4. Realizar cambios en GitHub
-5. Crear Release Tags que nos permitan descargar el código fácilmente, en caso de que necesitemos volver a comenzar donde nos quedemos.
-6. En clases más adelante del curso, seguimos creando módulos, por lo que esta sección es muy importante
+1. Trabajamos con Outputs, Inputs y ViewChild
+2. Aprendimos como utilizar atributos personalizados
+3. Creamos un componente re utilizable con una funcionalidad en especifico
+4. Aprendimos a tener referencias a elementos HTML
+5. Tips de JavaScript puro: colocar el foco en elementos
+6. Uso de gráficas como componentes personalizados
 
 ## Comandos
 
@@ -15,3 +15,6 @@
 
 ```ng g c pages/progress -is --skipTests```
 
+
+``` npm install --save ng2-charts ```
+``` npm install --save chart.js ```
